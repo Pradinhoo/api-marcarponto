@@ -1,7 +1,6 @@
 package com.pradocode.pontos.model;
 
 import jakarta.persistence.*;
-import lombok.Getter;
 
 import java.time.LocalDateTime;
 
